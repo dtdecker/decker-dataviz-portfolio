@@ -1,30 +1,14 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# TSWD-portfolio-templates
-These portfolio templates are for setting up your Telling Stories with Data site.  Edit these pages and add new ones as needed.   
-It's always helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
-
-- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
-- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
-
-# Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
-
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hi! My name is David, and I'm a currently pursuing a Bachelor of Architecture with an Additional Major in Environmental and Sustainability Studies. I will also be pursuing a Masters of Science in Building Performance and Diagnostics at CMU.
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+I have been interested in data visualization for a long time, and have recently connected it with my architectural studies. I especially want to improve my skills relating to topics such as: 
 
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+1. Building Performance
+2. Energy Diagnostics
+3. Geographic Information Systems
 
 # Portfolio
 
