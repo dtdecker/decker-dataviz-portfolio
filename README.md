@@ -5,8 +5,6 @@ Hi! My name is David, and I'm a currently pursuing a Bachelor of Architecture wi
 
 ![David Decker_headshot](https://github.com/user-attachments/assets/d029810c-877c-4879-b44b-c18e51caf6b9)
 
-<img src="funny-dog-unsplash.jpg" width="200"/>
-
 # What I hope to learn
 I have been interested in data visualization for a long time, and have recently connected it with my architectural studies. I especially want to improve my skills relating to topics such as: 
 
