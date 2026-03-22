@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page]((https://dtdecker.github.io/decker-dataviz-portfolio/)) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # About me
 Hi! My name is David, and I'm a currently pursuing a Bachelor of Architecture with an Additional Major in Environmental and Sustainability Studies. I will also be pursuing a Masters of Science in Building Performance and Diagnostics at CMU.
