@@ -14,7 +14,7 @@ I have been interested in data visualization for a long time, and have recently 
 
 # Portfolio
 
-## Exercises: [Data Viz Examples](visualizing-government-debt)
+## Exercises: [Data Viz Examples](dataviz-examples)
 These short-form exercises demonstrate different skills on synthesizing data together and utilizing various visualization types.
 
 ## Assignment 3: [Critique by Design](critique-by-design)
