@@ -52,9 +52,9 @@ To test my solution, I was able to interview three fellow students. These studen
 | Question | Interview 1 | Interview 2 | Interview 3 |
 |----------|-------------|-------------|-------------|
 |1|             |             |             |
-|2|             |             |             |
-|3| Being able to compare the regions is most important            |             |             |
-|4| Using color to distinguish between regions is effective, but exact palette could be improved            |             |             |
+|2|             |The linechart is more effective than the grouped bar charts|             |
+|3| Being able to compare the regions is most important|Separating by vehicle type is more useful than separating by region|Direct comparison between regions is most important to discern overall trends|
+|4| Using color to distinguish between regions is effective, but exact palette could be improved|             |             |
 
 ### Synthesis: 
 
