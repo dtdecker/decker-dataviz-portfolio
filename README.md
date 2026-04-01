@@ -17,8 +17,8 @@ I have been interested in data visualization for a long time, and have recently 
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
-## Assignment 3&4: [Critique by Design](critique-by-design)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
+## Assignment 3: [Critique by Design](critique-by-design)
+This assignment was our first complete runthrough of critiquing an existing visualization, proposing ideas and getting feedback on them, and then developing a final visualization.
 
 ## Final project
 Here it might be helpful to include a high-level description of your final project. 
