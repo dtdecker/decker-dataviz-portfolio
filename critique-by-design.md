@@ -18,7 +18,15 @@ The visualization I chose is from the International Energy Agency. It displays t
 <a href="https://data.world/makeovermonday/2025-week-11-electric-car-sales">Raw Data Access (Data.World).</a>
 
 ## Step two: the critique
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
+
+### Initial Observations
+When first observing the data visualization, I noticed that there is a trend of substantial growth in the sale of electric cars over the last few years. I think that overall, using a bar graph worked well in representing this trend. I was initially confused about what the different colors meant, until I interpreted the legend and realized that it is a breakdown of electric car sales by region. I think that using different colors for different regions, and then the distinction of hues to differentiate between electric car types is overall effective, but I am left wondering what 'BEV' and 'PHEV' mean in the context of the visualization. Additionally, it is more difficult for me to identify exact sale numbers for Europe and the United States each year, because they do not follow a standard baseline.
+
+### Target Audience
+I think the primary audience for this tool are world leaders, policymakers, and other influential leaders. Since the International Energy Agency (IEA) is a global regulatory and advising organization, its primary goal is collecting and sharing data regarding energy use across different countries. Therefore, the goal of this visualization is to show how electric cars are becoming increasingly popular in dominant country's markets, while lagging behind in smaller markets. There could be clearer explanation of the terms provided as well as better distinction between Europe/China/the U.S. and the rest of the world, so that politicians can better easily understand the graphic. Many of these policymakers are often busy and don't have time to sit and interpret data, so minimizing the time needed to understand the visualization is crucial.
+
+### Points of Improvement
+I am going to try and focus on a clearer differentiation and explanation of each regional market regarding its trend in electric car sales, while maintaining the overall message of rapid recent growth in sales. To accomplish this, I believe that utilizing a line chart rather than a stacked bar chart will be effective, to represent different regions and encourage comparison while maintaining the same baseline. From there, I am excited to try different methods of representing the total amount of sales against the sales by region, as well as explaining the labels of 'BEV' and 'PHEV' more clearly.
 
 ## Step three: Sketch a solution
 
