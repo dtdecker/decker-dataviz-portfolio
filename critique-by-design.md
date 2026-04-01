@@ -15,7 +15,7 @@ The visualization I chose is from the International Energy Agency. It displays t
 
 <a href="https://www.iea.org/reports/global-ev-outlook-2024/trends-in-electric-cars">"Trends in electric cars," International Energy Agency, 2024.</a>
 
-<a href="https://data.world/makeovermonday/2025-week-11-electric-car-sales">Raw Data Access (Data.World).</a>
+<a href="https://data.world/makeovermonday/2025-week-11-electric-car-sales">Raw Data Access (Data.World)</a>
 
 ## Step two: the critique
 
@@ -58,7 +58,9 @@ To test my solution, I was able to interview three fellow students. These studen
 
 ### Synthesis: 
 
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+The main message I got from my interviews was that using a line chart visualization was effective in conveying the recent increase in total electric car sales, while also being able to compare growth across regions. Therefore, some of my sketches can be combined into a composite visualization, which most interviewees agreed should focus on comparing regions while referencing different types of electric cars as secondary information. 
+
+The student in Interview 1 suggested that the total number of sales is not as important as comparing the numbers by region is, so I will therefore leave the total count out of my final visualization in favor of synthesizing the other data layers. The students did not agree on what color scheme would be the most useful, but a majority agreed that using different colors to distinguish between regions is effective as long as the colors do not overpower. That being said, the exact palette can still be improved to maximize readability.
 
 ## Step five: build the solution
 
@@ -75,9 +77,12 @@ _Include and describe your final solution here. It's also a good idea to summari
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+To complete my final visualization, I combined my initial two sketches into a composite line chart, depicting total sales of BEV and PHEV electric cars by region. In working with this data on Tableau, I found that a smaller range of the y-axis was important to reveal more intricate details about the growth of sales. For example, the graph now depicts how countries in Europe prioritized both types of electric cars simultaneously, while China initially favored BEV cars over PHEV cars. I believe that this iteration is most effective in conveying the original message for the International Energy Agency, while being clearer about the different car types and relative growth.
+
+Incorporating the feedback from my interviews was a crucial part of this process. By getting more sources of input, I was able to make an informed decision about what the most effective composite visualization would be. In the future, I would want to seek further feedback about smaller design details in the visualization, such as the color palette. While I think that using different colors, and darker vs. lighter variations is effective, I also think that this iteration might still be more difficult to read for some people. Depending on the audience, I could see the benefit in highlighting a country as China to show how its growth pattern differs from other regions, rather than comparing every region at the same level.
+
 ## References
 _List any references you used here._
 
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
-
+<a href="https://www.iea.org/reports/global-ev-outlook-2024/trends-in-electric-cars">"Trends in electric cars," International Energy Agency, 2024.</a>
+<a href="https://data.world/makeovermonday/2025-week-11-electric-car-sales">Access to Raw Data Spreadsheet from IEA, Data.World.</a>
