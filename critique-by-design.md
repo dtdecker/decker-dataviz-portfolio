@@ -19,6 +19,14 @@ The visualization I chose is from the International Energy Agency. It displays t
 
 ## Step two: the critique
 
+### Data Visualization Effectiveness Profile
+
+| Usefulness | Completeness | Perceptibility | Truthfulness | Intuitiveness | Aesthetics | Engagement |
+|----------|-------------|-------------|-------------|-------------|-------------|-------------|
+|8/10|7/10|6/10|7/10|6/10|7/10|8/10|
+
+Source: Few, Stephen. "Data Visualization Effectiveness Profile," 2017, 11. <a href="http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf">http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf</a>
+
 ### Initial Observations
 When first observing the data visualization, I noticed that there is a trend of substantial growth in the sale of electric cars over the last few years. I think that overall, using a bar graph worked well in representing this trend. I was initially confused about what the different colors meant, until I interpreted the legend and realized that it is a breakdown of electric car sales by region. I think that using different colors for different regions, and then the distinction of hues to differentiate between electric car types is overall effective, but I am left wondering what 'BEV' and 'PHEV' mean in the context of the visualization. Additionally, it is more difficult for me to identify exact sale numbers for Europe and the United States each year, because they do not follow a standard baseline.
 
@@ -86,3 +94,4 @@ _List any references you used here._
 
 <a href="https://www.iea.org/reports/global-ev-outlook-2024/trends-in-electric-cars">"Trends in electric cars," International Energy Agency, 2024.</a>
 <a href="https://data.world/makeovermonday/2025-week-11-electric-car-sales">Access to Raw Data Spreadsheet from IEA, Data.World.</a>
+Few, Stephen. "Data Visualization Effectiveness Profile," 2017, 11. <a href="http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf">http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf</a>
