@@ -51,10 +51,10 @@ To test my solution, I was able to interview three fellow students. These studen
 
 | Question | Interview 1 | Interview 2 | Interview 3 |
 |----------|-------------|-------------|-------------|
-|1|             |             |             |
-|2|Separating the overall total was helpful, the total is not as important as the numbers by region|The linechart is more effective than the grouped bar charts|             |
+|1|Recent increase in total electric cars sold per region|Profit from electric car sales is increasing across the world|Total electric car sales increasing throughout the world|
+|2|Separating the overall total was helpful, the total is not as important as the numbers by region|The linechart is more effective than the grouped bar charts|The separation of line charts based on region spreads out the data too much, harder to compare regions|
 |3| Being able to compare the regions is most important|Separating by vehicle type is more useful than separating by region|Direct comparison between regions is most important to discern overall trends|
-|4| Using color to distinguish between regions is effective, but exact palette could be improved|             |             |
+|4| Using color to distinguish between regions is effective, but exact palette could be improved|Color could be used more sparingly, maybe with just two complementary colors calling out two regions|Using a darker and lighter version of the same hue to distinguish between vehicle type would be beneficial|
 
 ### Synthesis: 
 
