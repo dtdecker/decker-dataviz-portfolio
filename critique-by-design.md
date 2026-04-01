@@ -53,8 +53,8 @@ To test my solution, I was able to interview three fellow students. These studen
 |----------|-------------|-------------|-------------|
 |    1      |             |             |             |
 |    2      |             |             |             |
-|    3      |             |             |             |
-|    4      |             |             |             |
+|    3      | Being able to compare the regions is most important            |             |             |
+|    4      | Using color to distinguish between regions is effective, but exact palette could be improved            |             |             |
 
 ### Synthesis: 
 
