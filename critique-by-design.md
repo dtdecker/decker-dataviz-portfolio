@@ -1,6 +1,6 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Title
+# Assignment 3: Critique By Design
 Text here...
 
 _For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
@@ -30,32 +30,30 @@ I am going to try and focus on a clearer differentiation and explanation of each
 
 ## Step three: Sketch a solution
 
+![IMG_0925](https://github.com/user-attachments/assets/dd6017ed-82d6-4441-b01b-6aeab00c134e)
+
+Through my sketches, I experimented with a few ways of separating the data to better reveal different connections, while still making the overall trend of recent growth clear. First, I visualized the data in the form of a line graph, split into two in order to separate BEV and PHEV sales. Then, I sketched out what the opposite split would like, by using 4 charts to show overall sales growth within each region. Overall, my first impression was that the line graph was expressing the data better than the bar graph, due to having the same baseline; from there, different combinations of these examples could be made.
+
+My last sketch was attempting to visualize how maintaining the same baseline would look while still using a bar graph. To accomplish this, I sketched grouped bar graphs for each year separated by region, superimposed by an overall total sales counter in the form of a line graph. While I think this also has the potential to be effective, using a line graph for the total increases the scale, and therefore minimizes the visibility of some of the more minute trends between regions.
+
+In completing my sketches, one factor I forgot to consider was color use as it was assigned to each variable. Currently, I don't think this data warrants highlighting a certain region over another, but I then planned to seek feedback on the used color scheme and how it can improve.
+
 ## Step four: Test the solution
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
+To test my solution, I was able to interview three fellow students. These students were all in their mid-20's and in the Masters of Arts Management (MAM) program at Carnegie Mellon, but had varying levels of previous data visualization experience. The set of questions I asked to the interviewees were:
 
-Questions to ask (modify these for your own interviews): 
+1. Can you tell me what this is describing?
+2. Which sketched version do you prefer the most?
+3. What is the most important aspect of the data to highlight?
+4. What color scheme do you feel would be most effective?
 
-- Can you tell me what you think this is?
+### Results: 
 
-- Can you describe to me what this is telling you?
-
-- Is there anything you find surprising or confusing?
-
-- Who do you think is the intended audience for this?
-
-- Is there anything you would change or do differently?
-
-Results: 
-
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
-
-
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
+| Question | Interview 1 | Interview 2 | Interview 3 |
+|----------|-------------|-------------|-------------|
+|          |             |             |             |
+|          |             |             |             |
+|          |             |             |             |
 
 Synthesis: 
 
