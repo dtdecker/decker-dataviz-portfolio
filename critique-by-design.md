@@ -51,11 +51,12 @@ To test my solution, I was able to interview three fellow students. These studen
 
 | Question | Interview 1 | Interview 2 | Interview 3 |
 |----------|-------------|-------------|-------------|
-|          |             |             |             |
-|          |             |             |             |
-|          |             |             |             |
+|    1      |             |             |             |
+|    2      |             |             |             |
+|    3      |             |             |             |
+|    4      |             |             |             |
 
-Synthesis: 
+### Synthesis: 
 
 _What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
 
