@@ -9,7 +9,13 @@ _You can include screenshots, sketches or other artifacts with your narrative to
 
 ## Step one: the visualization
 
-_Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
+<img width="1310" height="908" alt="Screenshot 2026-03-28 173945" src="https://github.com/user-attachments/assets/2c61e328-36c5-4e4c-87d5-9944ebe30c65" />
+
+The visualization I chose is from the International Energy Agency. It displays the total amount of electric car sales around the world, divided up by region as well as type of car (Battery Electric Vehicles and Partial-Hybrid Electric Vehicles). The visualization is included as part of a larger article, which explains the rapid growth of electric car sales across the world in the past 5 years.
+
+<a href="https://www.iea.org/reports/global-ev-outlook-2024/trends-in-electric-cars">"Trends in electric cars," International Energy Agency, 2024.</a>
+
+<a href="https://data.world/makeovermonday/2025-week-11-electric-car-sales">Raw Data Access (Data.World).</a>
 
 ## Step two: the critique
 _Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
