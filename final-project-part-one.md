@@ -15,12 +15,15 @@ Referencing my in-class work, my story arc outlines a proper introduction into p
 Here is a proposed outline with supplemental data visualization sketches so far:
 
 Intro: Historical information on public transit ridership in the U.S.
+
 ![IMG_0934](https://github.com/user-attachments/assets/f3ce5617-f190-4657-b597-40b0ec39562f)
 
 Body: Comparing percentage of public transit users to vehicle commuter time in U.S. cities
+
 ![IMG_0933](https://github.com/user-attachments/assets/562e64c4-2239-47d9-ade2-c496e6e542c8)
 
 Call-to-action: Amount of traffic options available in U.S. cities compared to daily traffic counts
+
 ![IMG_0935](https://github.com/user-attachments/assets/a45c22be-c1bf-4e37-98a3-17d24b77196d)
 
 # The data
