@@ -77,7 +77,7 @@ The most conflicting point of feedback from my interviewees was whether or not m
 
 <a href="https://www.transitchicago.com/argonne-led-research-shows-robust-investment-in-transit-benefits-both-transit-and-non-transit-users/">Argonne-led Research Shows Robust Investment in Transit Benefits Both Transit and Non-Transit Users (Chicago Transit Authority)</a>
 
-<a href="https://blog.bayareametro.gov/posts/study-taking-public-transit-san-francisco-saves-renters-money">Study:Taking public transit in San Francisco saves renters money (The Bay Link)</a>
+<a href="https://blog.bayareametro.gov/posts/study-taking-public-transit-san-francisco-saves-renters-money">Study: Taking public transit in San Francisco saves renters money (The Bay Link)</a>
 
 <a href="https://english.www.gov.cn/news/202501/02/content_WS67764b48c6d0868f4e8ee732.html">China's operating high-speed railway to hit 60,000 km by 2030 (People's Republic of China)</a>
 
