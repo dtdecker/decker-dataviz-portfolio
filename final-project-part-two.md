@@ -59,8 +59,29 @@ After receiving user feedback, I overall feel in a good position for finalizing 
 |Further explanation of how the data was gathered would be helpful for user understanding | Include brief descriptions of how data was gathered and extrapolated into my visualizations|
 |It is more beneficial to reference the same cities rather than jumping around to different examples| Stay consistent in referencing three clear cities in my graphics and images, to follow them throughout the story|
 
+The most conflicting point of feedback from my interviewees was whether or not my overall story should be condensed or not. While some interviewees thought it could be more concise, others thought that it flowed very well and that the call-to-action was clear. I have already worked diligently to refine the main points of my story, so while I will continue to evaluate it, I still remain confident that my current outline works well.
+
 ## References
-_List any references you used here._
+
+<a href="http://www.publicpurpose.com/ut-usptshare45.htm">U.S. Transit Shares from 1900 (National Transit Database)</a>
+
+<a href="https://www.thinktennessee.org/wp-content/uploads/2024/03/transit-research-report-tables_logo.pdf">Annual Transit Ridership, Growth, and Population in U.S. Cities (Think Tennessee)</a>
+
+<a href="https://wallethub.com/edu/happiest-places-to-live/32619">Happiest Cities in America (WalletHub)</a>
+
+<a href="https://t4america.org/data-hub/investment-and-spending-data/">Investment and Spending in Transit Systems (Transportation for America)</a>
+
+<a href="https://www.segregationbydesign.com/the-bronx/transit">Segregation by Design</a>
+
+<a href="https://www.ridersalliance.org/why-transit-matters">Why Transit Matters (New York Riders Alliance)</a>
+
+<a href="https://www.transitchicago.com/argonne-led-research-shows-robust-investment-in-transit-benefits-both-transit-and-non-transit-users/">Argonne-led Research Shows Robust Investment in Transit Benefits Both Transit and Non-Transit Users (Chicago Transit Authority)</a>
+
+<a href="https://blog.bayareametro.gov/posts/study-taking-public-transit-san-francisco-saves-renters-money">Study:Taking public transit in San Francisco saves renters money (The Bay Link)</a>
+
+<a href="https://english.www.gov.cn/news/202501/02/content_WS67764b48c6d0868f4e8ee732.html">China's operating high-speed railway to hit 60,000 km by 2030 (People's Republic of China)</a>
+
+<a href="https://www.axios.com/local/chicago/2026/03/10/cta-submits-new-safety-plan-to-fta">CTA Promises More Police After Fed's Funding Threat (Axios)</a>
 
 ## AI acknowledgements
 
