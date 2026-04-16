@@ -47,3 +47,8 @@ To complete my final project, I am planning on completing my data visualizations
 <a href="https://www.transit.dot.gov/ntd">The National Transit Database (Federal Transit Administration, U.S. Department of Transportation)</a>
 
 <a href="https://www.census.gov/programs-surveys/acs.html">American Community Survey (United States Census Bureau)</a>
+
+## AI acknowledgements
+
+AI was not used for the completion of this assignment.
+
