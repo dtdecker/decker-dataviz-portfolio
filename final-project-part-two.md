@@ -49,32 +49,20 @@ To seek user feedback, I conducted 3 interviews. Interviewees 1 and 2 both share
 |Does the argument flow well? What points might be missing?|The story could be condensed in order to arrive at the final argument more quickly, specificity isn't as crucial as main points of argument|The flow is overall working well, images are very powerful in emphasizing points|The argument flows well, and nothing more needs to be added|
 |What other thoughts of suggestions do you have?|Los Angeles would be a beneficial case study to highlight, as there are a lot of historic transit use and documented imagery|All of the graphics and images should be related to the same cities, so that I can identify case studies to follow throughout the story|Initially skeptical about ending on funding threats as a call-to-action, but convinced by its effectiveness after further thought|
 
-
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
 
-Text here!
+After receiving user feedback, I overall feel in a good position for finalizing my story. While my anticipated changes from the time of interviewing are outlined below, I have already started to implement some of these changes within my Shorthand storyboards. Thus, I will be able to primarily focus on refining my data visualizations for integration into the story, while also finalizing my overall webpage.
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
-
-> ...include any final thoughts you have here. 
-
-Text here!
-
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
+|The flow and argument of the story is overall clear, but could potentially be condensed| Reevaluate each part within the story to see if I can further condense the writing and gear it towards the overall point |
+|Further explanation of how the data was gathered would be helpful for user understanding | Include brief descriptions of how data was gathered and extrapolated into my visualizations|
+|It is more beneficial to reference the same cities rather than jumping around to different examples| Stay consistent in referencing three clear cities in my graphics and images, to follow them throughout the story|
 
 ## References
 _List any references you used here._
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+
+AI was not used for the completion of this assignment.
 
