@@ -20,34 +20,34 @@ Financial Trends Compared between Public Transit and Highway Funding in the U.S.
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
-Text here!
+Through my story, I hope to reach both public urban planners as well as community members at large. Primarily, urban planners must be convinced that public transportation is worth prioritizing and increasing funding for, which my story calls for after illustrating its benefits. In addition, residents in general can be better convinced on how increasing public transit access is beneficial to them, whether they utilize it or not.
+
+## Identifying Interviewees
+
+My approach to identifying representative individuals to interview, in order to gather feedback on this stage of my project was based on three desired traits. First, I wanted to interview people with strong skills in storytelling, since my overall goal is to have clear flow and persuasion. Second, I interviewed people with a similar skill level in data visualization as I, because I find it most helpful to talk through different ideas collaboratively in order to reach a better conclusion. Third, I preferred interviewing people with a shared interest and investment in public transportation and walkable urban design.
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
 
-Text here!
+Hello, thank you for agreeing to give feedback on my project regarding the benefits of public transit in the United States. For this interview, I will first present my working storyboards to you. Please mainly consider the main points and overall flow of the story, and then how the data visualizations supplement the story. However, I would also appreciate any thoughts you have about the images and graphics as well.
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
-
-
-Text here!
+|Capture the interviewee's initial impression and overall reaction to the story, and to see if my primary argument comes through clearly|Is the topic described clearly? Do you understand a straightforward call-to-action?|
+|Understand interviewee's impression about how well integrated the proposed data visualizations are with the rest of the story|How well do you think the data supplemented the story?|
+|Record what interviewees think about the flow of the story's presentation, and if any topic should be added or modified|Does the argument flow well? What points might be missing?|
+|Give the interviewees a chance to express any other lingering thoughts that they didn't get a chance to express before.|What other thoughts of suggestions do you have?|
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-Text here!
+To seek user feedback, I conducted 3 interviews. Interviewees 1 and 2 both share similar experience levels in data visualization to me; Interviewee 1 is a Master's student in Public Policy and Management, and Interviewee 2 is a Master's student in Information Systems. Interviewee 3 is an undergraduate student in the School of Architecture, and holds a similar interest in public transit and urban design.
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+|Is the topic described clearly? Do you understand a straightforward call-to-action?|The story is working, and the call-to-action is very clear|Overall might be too big, some points could be removed to better arrive at conclusion|The topic is described very well and the call-to-action is clear|
+|How well do you think the data supplemented the story?|Overall seemed beneficial, however more than 3 data visualizations would be overkill|They are well organized throughout the story and seem to relate to each section in a positive manner|They are working well, but make sure to explain how the data was gathered (especially for subjective data points)|
+|Does the argument flow well? What points might be missing?|The story could be condensed in order to arrive at the final argument more quickly, specificity isn't as crucial as main points of argument|The flow is overall working well, images are very powerful in emphasizing points|The argument flows well, and nothing more needs to be added|
+|What other thoughts of suggestions do you have?|Los Angeles would be a beneficial case study to highlight, as there are a lot of historic transit use and documented imagery|All of the graphics and images should be related to the same cities, so that I can identify case studies to follow throughout the story|Initially skeptical about ending on funding threats as a call-to-action, but convinced by its effectiveness after further thought|
 
 
 # Identified changes for Part III
