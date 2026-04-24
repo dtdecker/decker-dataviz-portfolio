@@ -31,7 +31,7 @@ This course's final project posited the crafting of a compelling story using dig
 
 ## References
 
-References and sources used for the final project are listed within each final project page.
+References and sources used for each assignment are listen at the bottom of their respective pages.
 
 ## AI acknowledgements
 
